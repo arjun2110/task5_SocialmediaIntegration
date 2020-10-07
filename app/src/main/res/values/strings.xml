@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocailMedia Integration App</string>
+    <string name="facebook_app_id">1249742308692991</string>
+    <string name="fb_login_protocol_scheme">fb1249742308692991</string>
+    <string name="by_arjun_thumbare">By Arjun Thumbare</string>
+
+</resources>
